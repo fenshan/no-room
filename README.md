@@ -1,7 +1,7 @@
 # no-room
 No Room to Breathe is a narrative game for Android, developed with Ink integration in Unity, with the intention of bringing the player closer to the experience that a person who is in an abusive relationship goes through.
 
-*Notes*
+## Notes
 No Room To Breathe is a game in development since April 2018.
 
 It was originally conceived by three UFV students as an university work, and turned into a personal challenge for two of them (Clara and María), who are going to keep working on it this summer (2018).
