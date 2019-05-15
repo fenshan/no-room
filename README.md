@@ -23,7 +23,7 @@ The order of conversations are (in the future, we'll put notifications):
 
 
 ROLES:
-Design: María and Clara
-Narrative: María
-Programming: Clara
+Design: María and Clara / 
+Narrative: María / 
+Programming: Clara / 
 Graphic design: María and Clara
