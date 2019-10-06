@@ -4,7 +4,7 @@ No Room to Breathe is a narrative game for Android, developed with Ink integrati
 ## Notes
 No Room To Breathe is a game in development since April 2018.
 
-It was originally conceived by three UFV students as an university work, and turned into a personal challenge for two of them (Clara and María), who are going to keep working on it this summer (2018).
+It was originally conceived by three UFV students as an university work, and turned into a personal challenge for two of them (Fen and María), who are going to keep working on it this summer (2018).
 
 No Room To Breathe is a narrative video game for Android (developed with Ink integration in Unity) with the intention of bringing the player closer to the experience that a person who is in an abusive relationship goes through. It tells the story of Sella, a young student who has just met Andrés, a lovely boy that makes her feel unique from the first day. The game shows the progression of the relationship from the falling in love until its degradation (progressive jealousy and control, abuse and coercion).
 
@@ -23,7 +23,7 @@ The order of conversations are (in the future, we'll put notifications):
 
 
 ROLES:
-Design: María and Clara / 
+Design: María and Fen / 
 Narrative: María / 
-Programming: Clara / 
-Graphic design: María and Clara
+Programming: Fen / 
+Graphic design: María and Fen
