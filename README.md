@@ -23,7 +23,7 @@ The order of conversations are (in the future, we'll put notifications):
 
 
 ROLES:
-Design: María and Fen / 
-Narrative: María / 
-Programming: Fen / 
+Design: María and Fen  
+Narrative: María  
+Programming: Fen  
 Graphic design: María and Fen
