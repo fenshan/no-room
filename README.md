@@ -22,7 +22,7 @@ The order of conversations are (in the future, we'll put notifications):
 6. (w) Gem
 
 
-ROLES:
+ROLES:  
 Design: María and Fen  
 Narrative: María  
 Programming: Fen  
